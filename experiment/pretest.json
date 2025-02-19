@@ -2,37 +2,37 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "1) What is the primary function of a VR headset?",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Display 2D images in high resolution",
+        "b": "Track user movements and display immersive 3D environments ",
+        "c": "Project holograms into real-world spaces",
+        "d": "Act as a standalone gaming console"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "Incorrect – VR headsets display 3D environments, not just 2D images.",
+        "b": "Correct – A VR headset tracks user movements and displays immersive 3D environments.",
+        "c": "Incorrect – Projecting holograms is a function of AR or MR, not VR.",
+        "d": "Incorrect – While some VR headsets can run standalone applications, they are not full gaming consoles."
       },
-      "correctAnswer": "a",
+      "correctAnswer": "b",
       "difficulty": "beginner"
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "2) What does a game engine do in VR development?",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Creates 3D models for VR environments",
+        "b": "Integrates physics, animations, lighting, and interactivity",
+        "c": "Acts as a VR headset",
+        "d": "Controls the user's physical movement in real life"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "Incorrect – 3D modelling software creates 3D assets, not the game engine.",
+        "b": "Correct – Game engines like Unity integrate physics, animations, lighting, and interactivity.",
+        "c": "Incorrect – A game engine is a software platform, not hardware.",
+        "d": "Incorrect – Game engines control interactions within a virtual world, not physical movement in real life."
       },
-      "correctAnswer": "c",
+      "correctAnswer": "b",
       "difficulty": "beginner"
     }
   ]

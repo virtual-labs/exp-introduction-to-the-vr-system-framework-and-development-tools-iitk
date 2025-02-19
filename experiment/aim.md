@@ -1,1 +1,1 @@
-### Aim of the experiment
+To introduce participants to the fundamental building blocks of VR systems and development tools through hands-on interaction in a virtual environment.
