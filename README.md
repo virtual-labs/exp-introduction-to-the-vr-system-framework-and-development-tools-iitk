@@ -1,20 +1,19 @@
 ## Introduction
 
 
-<b>Discipline | <b>Fill your discipline name here
+<b>Discipline | <b>Physical Science 
 :--|:--|
-<b> Lab | <b> Fill your lab name here
-<b> Experiment|     <b> Fill your experiment name and number here
-
+<b> Lab | <b> Virtual Reality
+<b> Experiment|     <b> Introduction to the VR System Frameworks and Development Tools
 ### About the Experiment 
 
-Fill a brief description of this experiment here
+This experiment introduces participants to Virtual Reality (VR) system frameworks and development tools through a hands-on, immersive experience. Participants will interact with the VR device, learn about 3D modeling, game engines, and extended reality (XR) concepts, and experiment with virtual environment settings such as lighting manipulation. The experiment is designed to provide foundational knowledge of VR technology and its key components.
 
-<b>Name of Developer | <b> Fill the name of experiment owner here 
+<b>Name of Developer | <b> Prof. Kantesh Balani 
 :--|:--|
-<b> Institute | <b>  
-<b> Email id|     <b>  
-<b> Department |  
+<b> Institute | <b>  IIT Kanpur
+<b> Email id|     <b>  kbalani@iitk.ac.in
+<b> Department |  Material Science Engineering
 
 ### Contributors List
 
