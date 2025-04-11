@@ -51,6 +51,40 @@
       },
       "correctAnswer": "b",
       "difficulty": "beginner"
-    }
+    },
+        {
+      "question": "4) How does inside-out tracking differ from outside-in tracking? ",
+      "answers": {
+        "a": "Inside-out tracking uses external cameras, while outside-in tracking uses built-in sensors ",
+        "b": "Inside-out tracking relies on cameras within the headset, while outside-in tracking requires external sensors  ",
+        "c": "Both tracking systems require external sensors ",
+        "d": "Inside-out tracking does not involve motion tracking "
+      },
+      "explanations": {
+        "a": "Incorrect – Inside-out tracking does not use external cameras. ",
+        "b": "Correct – Inside-out tracking is based on cameras inside the headset, while outside-in requires external sensors. ",
+        "c": "Incorrect – Only outside-in tracking depends on external sensors. ",
+        "d": "Incorrect – Inside-out tracking still tracks motion, just using a different method. "
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+        {
+      "question": "5) Which development tool is essential for creating interactive VR environments? ",
+      "answers": {
+        "a": "Adobe Photoshop ",
+        "b": "Unity or Unreal Engine  ",
+        "c": "Microsoft Word ",
+        "d": "Google Chrome "
+      },
+      "explanations": {
+        "a": "Incorrect – Photoshop is used for image editing, not VR development. ",
+        "b": "Correct – Unity and Unreal Engine are widely used for VR development. ",
+        "c": "Incorrect – Word is a document processing tool, not for VR development. ",
+        "d": "Incorrect – A web browser is not a VR development tool. "
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
   ]
 }
