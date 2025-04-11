@@ -34,6 +34,58 @@
       },
       "correctAnswer": "b",
       "difficulty": "beginner"
+    },
+     {
+      "question": "3) Which of the following is a key advantage of using XR technologies in VR development? ",
+      "answers": {
+        "a": "Allows users to experience interactive digital environments  ",
+        "b": "Limits user movement to predefined paths ",
+        "c": "Reduces the need for hardware in VR applications ",
+        "d": "Replaces all physical interactions with virtual ones "
+      },
+      "explanations": {
+        "a": "Correct – XR technologies enable users to engage in interactive and immersive digital experiences. ",
+        "b": "Incorrect – VR applications allow free movement based on tracking, not fixed paths. ",
+        "c": "Incorrect – VR still requires hardware like headsets and controllers.",
+        "d": "Incorrect – Some VR systems integrate physical elements instead of replacing them. "
+      },
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+        {
+      "question": "4) What is the role of lighting in a virtual reality scene? ",
+      "answers": {
+        "a": "Only for aesthetic purposes ",
+        "b": "Improves immersion by simulating realistic environments  ",
+        "c": "Controls the size of 3D models ",
+        "d": "Has no effect on user experience "
+      },
+      "explanations": {
+        "a": "Incorrect – Lighting is used for more than just aesthetics; it also affects realism and visibility. ",
+        "b": "Correct – Proper lighting enhances immersion by making environments feel more realistic. ",
+        "c": "Incorrect – Lighting does not affect model size, only visibility and mood. ",
+        "d": "Incorrect – Lighting plays a major role in VR experiences. "
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+        {
+      "question": "5) What is the purpose of controllers in a VR system?",
+      "answers": {
+        "a": "They display 3D visuals to the user ",
+        "b": "They track user hand movements and enable interaction with the virtual environment  ",
+        "c": "They process and render 3D graphics ",
+        "d": "They replace the VR headset in providing an immersive experience "
+      },
+      "explanations": {
+        "a": "Incorrect – VR headsets display visuals, not controllers. ",
+        "b": "Correct – Controllers allow users to interact with and manipulate objects in VR. ",
+        "c": "Incorrect – The game engine handles rendering, not controllers. ",
+        "d": "Incorrect – Controllers work alongside the headset, not as a replacement. "
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
     }
+    
   ]
 }
