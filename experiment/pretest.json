@@ -82,7 +82,7 @@
         "b": "Correct – Controllers allow users to interact with and manipulate objects in VR. ",
         "c": "Incorrect – The game engine handles rendering, not controllers. ",
         "d": "Incorrect – Controllers work alongside the headset, not as a replacement. "
-      }
+      },
       "correctAnswer": "b",
       "difficulty": "beginner"
     }
