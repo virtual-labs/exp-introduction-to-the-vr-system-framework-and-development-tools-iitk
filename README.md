@@ -19,5 +19,7 @@ This experiment introduces participants to Virtual Reality (VR) system framework
 
 SrNo | Name | Faculty or Student | Department| Institute | Email id
 :--|:--|:--|:--|:--|:--|
-1 | . | . | . | . | .
-2 | . | . | . | . | .
+1 | Prof. Kantesh Balani | Faculty | MSE | IIT Kanpur | kbalani@iitk.ac.in
+2 | Dhananjay Umrao | . | MSE | IIT Kanpur | dumrao@iitk.ac.in
+3 | Khushboo Singh | . | MSE | IIT Kanpur | skhushboo@iitk.ac.in
+4 | Pradeep Patel | . | MSE | IIT Kanpur | ppradeep@iitk.ac.in
