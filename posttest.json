@@ -1,0 +1,90 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "1) What enables spatial tracking in Meta Quest 3?",
+      "answers": {
+        "a": "External tracking sensors",
+        "b": "Built-in cameras and inside-out tracking",
+        "c": "Infrared motion detectors",
+        "d": "Joysticks on the controllers"
+      },
+      "explanations": {
+        "a": "Incorrect – Meta Quest 3 does not require external sensors for tracking.",
+        "b": "Correct – The headset uses built-in cameras and inside-out tracking for motion detection.",
+        "c": "Incorrect – Infrared motion detectors are used in some tracking systems, but not in this headset.",
+        "d": "Incorrect – Joysticks are for user input, not tracking."
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "2) What is the role of a 3D modeling tool in VR development?",
+      "answers": {
+        "a": "Rendering realistic graphics in real-time",
+        "b": "Applying lighting effects and physics",
+        "c": "Creating digital representations of objects and environments",
+        "d": "Managing input from controllers and headsets"
+      },
+      "explanations": {
+        "a": "Incorrect – Real-time rendering is handled by the game engine, not 3D modeling software.",
+        "b": "Incorrect – Lighting effects and physics are implemented within a game engine.",
+        "c": "Correct – 3D modeling software is used to create digital representations of objects and environments.",
+        "d": "Incorrect – Input management is handled by the VR system, not modeling software."
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "3) What does the intensity slider control in the VR lighting task?",
+      "answers": {
+        "a": "The size of the virtual lamp",
+        "b": "The brightness of the light ",
+        "c": "The color of the light",
+        "d": "The direction of the light beam"
+      },
+      "explanations": {
+        "a": "Incorrect – The slider affects lighting intensity, not the lamp’s size.",
+        "b": "Correct – The intensity slider adjusts the brightness of the light.",
+        "c": "Incorrect – Color is controlled separately, not by the intensity slider.",
+        "d": "Incorrect – The direction of the light beam is adjusted using a different setting."
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+        {
+      "question": "4) How does inside-out tracking differ from outside-in tracking? ",
+      "answers": {
+        "a": "Inside-out tracking uses external cameras, while outside-in tracking uses built-in sensors ",
+        "b": "Inside-out tracking relies on cameras within the headset, while outside-in tracking requires external sensors  ",
+        "c": "Both tracking systems require external sensors ",
+        "d": "Inside-out tracking does not involve motion tracking "
+      },
+      "explanations": {
+        "a": "Incorrect – Inside-out tracking does not use external cameras. ",
+        "b": "Correct – Inside-out tracking is based on cameras inside the headset, while outside-in requires external sensors. ",
+        "c": "Incorrect – Only outside-in tracking depends on external sensors. ",
+        "d": "Incorrect – Inside-out tracking still tracks motion, just using a different method. "
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+        {
+      "question": "5) Which development tool is essential for creating interactive VR environments? ",
+      "answers": {
+        "a": "Adobe Photoshop ",
+        "b": "Unity or Unreal Engine  ",
+        "c": "Microsoft Word ",
+        "d": "Google Chrome "
+      },
+      "explanations": {
+        "a": "Incorrect – Photoshop is used for image editing, not VR development. ",
+        "b": "Correct – Unity and Unreal Engine are widely used for VR development. ",
+        "c": "Incorrect – Word is a document processing tool, not for VR development. ",
+        "d": "Incorrect – A web browser is not a VR development tool. "
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    }
+  ]
+}

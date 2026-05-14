@@ -1,0 +1,91 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "1) What is the primary function of a VR headset?",
+      "answers": {
+        "a": "Display 2D images in high resolution",
+        "b": "Track user movements and display immersive 3D environments ",
+        "c": "Project holograms into real-world spaces",
+        "d": "Act as a standalone gaming console"
+      },
+      "explanations": {
+        "a": "Incorrect – VR headsets display 3D environments, not just 2D images.",
+        "b": "Correct – A VR headset tracks user movements and displays immersive 3D environments.",
+        "c": "Incorrect – Projecting holograms is a function of AR or MR, not VR.",
+        "d": "Incorrect – While some VR headsets can run standalone applications, they are not full gaming consoles."
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "2) What does a game engine do in VR development?",
+      "answers": {
+        "a": "Creates 3D models for VR environments",
+        "b": "Integrates physics, animations, lighting, and interactivity",
+        "c": "Acts as a VR headset",
+        "d": "Controls the user's physical movement in real life"
+      },
+      "explanations": {
+        "a": "Incorrect – 3D modelling software creates 3D assets, not the game engine.",
+        "b": "Correct – Game engines like Unity integrate physics, animations, lighting, and interactivity.",
+        "c": "Incorrect – A game engine is a software platform, not hardware.",
+        "d": "Incorrect – Game engines control interactions within a virtual world, not physical movement in real life."
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+     {
+      "question": "3) Which of the following is a key advantage of using XR technologies in VR development? ",
+      "answers": {
+        "a": "Allows users to experience interactive digital environments  ",
+        "b": "Limits user movement to predefined paths ",
+        "c": "Reduces the need for hardware in VR applications ",
+        "d": "Replaces all physical interactions with virtual ones "
+      },
+      "explanations": {
+        "a": "Correct – XR technologies enable users to engage in interactive and immersive digital experiences. ",
+        "b": "Incorrect – VR applications allow free movement based on tracking, not fixed paths. ",
+        "c": "Incorrect – VR still requires hardware like headsets and controllers.",
+        "d": "Incorrect – Some VR systems integrate physical elements instead of replacing them. "
+      },
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+        {
+      "question": "4) What is the role of lighting in a virtual reality scene? ",
+      "answers": {
+        "a": "Only for aesthetic purposes ",
+        "b": "Improves immersion by simulating realistic environments  ",
+        "c": "Controls the size of 3D models ",
+        "d": "Has no effect on user experience "
+      },
+      "explanations": {
+        "a": "Incorrect – Lighting is used for more than just aesthetics; it also affects realism and visibility. ",
+        "b": "Correct – Proper lighting enhances immersion by making environments feel more realistic. ",
+        "c": "Incorrect – Lighting does not affect model size, only visibility and mood. ",
+        "d": "Incorrect – Lighting plays a major role in VR experiences. "
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+        {
+      "question": "5) What is the purpose of controllers in a VR system?",
+      "answers": {
+        "a": "They display 3D visuals to the user ",
+        "b": "They track user hand movements and enable interaction with the virtual environment  ",
+        "c": "They process and render 3D graphics ",
+        "d": "They replace the VR headset in providing an immersive experience "
+      },
+      "explanations": {
+        "a": "Incorrect – VR headsets display visuals, not controllers. ",
+        "b": "Correct – Controllers allow users to interact with and manipulate objects in VR. ",
+        "c": "Incorrect – The game engine handles rendering, not controllers. ",
+        "d": "Incorrect – Controllers work alongside the headset, not as a replacement. "
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    }
+    
+  ]
+}
